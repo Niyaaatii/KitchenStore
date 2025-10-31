@@ -184,9 +184,8 @@ There is a tiny static frontend in the `frontend/` folder: `index.html` and `scr
 - Add unit/integration tests.
 - Consider switching to a richer data store (Postgres/SQL Server) for production.
 
-If you want me to open a PR with tests or add more endpoints, tell me which features you want next.
+
 
 ---
 
-License: Add your preferred license here.
-# KitchenStore
+

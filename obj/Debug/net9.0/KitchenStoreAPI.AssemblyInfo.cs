@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KitchenStoreAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48b3d0e278596f115c366bb0bdb75e74f3ea8c52")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b91b608b48c08e5d0ecedcebeda16594923201b1")]
 [assembly: System.Reflection.AssemblyProductAttribute("KitchenStoreAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KitchenStoreAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
